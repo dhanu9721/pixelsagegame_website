@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.d41875d0.css",
-    "main.js": "/static/js/main.ab50241b.js",
+    "main.js": "/static/js/main.c961600c.js",
     "static/media/SplashScreen.png": "/static/media/SplashScreen.3a6ca6f9233200be852c.png",
     "static/media/BFG.png": "/static/media/BFG.094c8130bfcadb0a67e4.png",
     "static/media/roulette_logo.png": "/static/media/roulette_logo.36ace5b4ec2a70e993a2.png",
@@ -9,14 +9,15 @@
     "static/media/1.png": "/static/media/1.61980d34411fa4c1e834.png",
     "static/media/7.png": "/static/media/7.d871ff712ca83ebc88b3.png",
     "static/media/11.png": "/static/media/11.d392f735300abce04249.png",
+    "static/media/pokerLogo.png": "/static/media/pokerLogo.c231323b572163fc229d.png",
     "static/media/aviator_logo.png": "/static/media/aviator_logo.43b1b4dac1d4f3534742.png",
     "static/media/hero-banner.jpg": "/static/media/hero-banner.5dfa922bdc55dc7ddae2.jpg",
     "index.html": "/index.html",
     "main.d41875d0.css.map": "/static/css/main.d41875d0.css.map",
-    "main.ab50241b.js.map": "/static/js/main.ab50241b.js.map"
+    "main.c961600c.js.map": "/static/js/main.c961600c.js.map"
   },
   "entrypoints": [
     "static/css/main.d41875d0.css",
-    "static/js/main.ab50241b.js"
+    "static/js/main.c961600c.js"
   ]
 }
